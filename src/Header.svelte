@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Gun.js Chat</h3>
+      <h3>Scape-The-Matrix</h3>
   {/if}
 </header>
